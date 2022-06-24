@@ -1,0 +1,26 @@
+.todo-date {
+    display: flex;
+    flex-direction: column;
+    width: 5.5rem;
+    height: 5.5rem;
+    background-color: royalblue;
+    color: white;
+    border: 1px solid royalblue;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+}
+
+.todo-month {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.todo-year {
+    font-size: 0.75rem;
+}
+
+.todo-day {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

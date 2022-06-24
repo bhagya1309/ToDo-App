@@ -1,0 +1,21 @@
+.new-todo {
+    background-color: #abb7dd;
+    width: 50rem;
+    padding: 1rem;
+    margin: 2rem auto;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.new-todo button {
+    font: inherit;
+    cursor: pointer;
+    background-color: crimson;
+    color: white;
+    padding: 1rem 2rem;
+    border: 1px solid crimson;
+    border-radius: 6px;
+    margin-right: 1rem;
+}
